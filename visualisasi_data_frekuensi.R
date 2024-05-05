@@ -2,7 +2,7 @@
 
 # Data diisikan disini
 Kategori <- c("18-22", "23-27", "28-32", "33-37", "38-42", "43-47", "48-52")
-Frekuensi <- c(265 88, 108, 19, 39, 44, 5)
+Frekuensi <- c(265, 88, 108, 19, 39, 44, 5)
 
 # kalkulasi mean, median, and modus
 # membuat vektor per kategori
